@@ -32,8 +32,8 @@
         <link rel="stylesheet" href="css/component.css">
         <!-- Slit Slider css -->
         <link rel="stylesheet" href="css/slit-slider.css">
-        <!-- media Stylesheet -->
-        <link rel="stylesheet" type="text/css" media="all" href="css/styles.css">
+        <!-- mediaElement Stylesheet -->
+        <link rel="stylesheet" type="text/css" media="all" href="css/mediaElement.css">
         <!-- Main Stylesheet -->
         <link rel="stylesheet" href="css/main.css">
         <!-- Media Queries -->
